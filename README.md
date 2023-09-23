@@ -125,21 +125,5 @@ function locationClick() {
 }
 ```
 
-Demo: 演示步骤, 点击获取定位 Objective-C获取到JS消息
-点击拒绝, JS获取到Objective-C传递的消息
 
-如图: 
-![依旧热爱生活](https://upload-images.jianshu.io/upload_images/1506501-ce8ce36beb6e9fd8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-
-
-![依旧热爱生活](https://upload-images.jianshu.io/upload_images/1506501-54cdc82a634c1d7b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-总结: 脑壳疼
-备注: 如果遇到跨域问题, 主要还是前端和服务端改一下就好了.
-
-原文 :  [https://www.jianshu.com/p/433e59c5a9eb](https://www.jianshu.com/p/433e59c5a9eb)
-
-完~ 
-文/夏天然后
 
